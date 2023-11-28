@@ -29,8 +29,8 @@ Este projeto foca na coleta e análise de dados sobre projetos de Inteligência 
 O link para o dashboard do Power BI será adicionado aqui após a conclusão do projeto.
 
 ## Contribuições
-Instruções sobre como contribuir para este projeto.
+Todo e qualquer usuário do GITHUB, tem liberdade total para utilizar esse código e melhora-lo da forma que preferir, de acordo com suas necessidade e caso decidir contribuir com ele, basta solicitar acesso a este repositório como um contribuidor, que ele será liberado para contribuição. 
 
 ## Licença
-Detalhes da licença do projeto.
+Este software é meramente para intuito acadêmico e o fiz a fim de exercitar meus conhecimentos em: python, progrmação orientada a objetos, micro-services, tratamento de dados com python, conceitos básicos de SQL dentro do MySQL e Power BI. Ele não é licenciado e qualquer usuário pode utilizado, como bem preferir, sem ser necessário aviso previo ou repasse de valor finaceiro caso, utilizado na criação de uma aplicação de negócio. 
 
